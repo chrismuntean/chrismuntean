@@ -5,9 +5,9 @@
 
 ### Recent Projects
 
-| ![Image 1](path/to/image1.jpg) | ![Image 2](path/to/image2.jpg) | ![Image 3](path/to/image3.jpg) |
+| ![Handify Image](https://chrismuntean.dev/portfolio/Handify.gif) | ![YOLO11n Hand Keypoint Detection Image](https://github.com/chrismuntean/YOLO11n-pose-hands/raw/main/readme-media/test.gif) | ![Live PD Image](https://chrismuntean.dev/portfolio/Live-PD.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| **Title 1** <br> Description 1 | **Title 2** <br> Description 2 | **Title 3** <br> Description 3 |
+| **Handify** <br> Gesture-controlled Spotify player | **YOLOv11n-pose-hands** <br>  Trained YOLO11n-pose model on hand keypoints  | **Live PD** <br>  A Telegram bot that transcribes live emergency radio broadcasts and delivers real-time updates. |
 
 | ![Image 4](path/to/image4.jpg) | ![Image 5](path/to/image5.jpg) | ![Image 6](path/to/image6.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
