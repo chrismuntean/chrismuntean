@@ -1,2 +1,2 @@
-# Hey I'm Chris
-## Ever since I was a kid, I've been fascinated by electronics, constantly taking them apart to understand their inner workings. This curiosity led me to the world of coding, where I now thrive on creating and enhancing innovative projects. As a freelance full-stack developer, I'm dedicated to expanding my knowledge and honing my skills. In my free time, you can find me rock climbing or playing the piano, which keep me balanced and inspired. Let's build something amazing together!
+# Hey, I'm Chris!
+## I’m a developer with a passion for building things, whether that's web applications, IT infrastructure, or creative side projects. I founded Muneris LLC, where I get to combine my technical background with a love for problem solving across a range of industries and clients. Outside of work, I'm drawn to creative outlets like photography and media production, and anything that lets me see an idea come to life. Let's build something great together.
